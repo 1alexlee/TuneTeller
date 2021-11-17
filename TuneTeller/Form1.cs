@@ -17,5 +17,24 @@ namespace TuneTeller
             InitializeComponent();
         }
 
+        private void SloganLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SloganLabel_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Title_Label_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonTemplate1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
